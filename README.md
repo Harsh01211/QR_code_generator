@@ -18,6 +18,7 @@
    pip install qrcode[pil]
 2.**Run the Python Script:**
 python qr_generator.py
+
 3.**Output:** The QR code will be saved as qrcode.png.
 
 ## Author:
